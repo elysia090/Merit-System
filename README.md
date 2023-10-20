@@ -1,4 +1,4 @@
-# MeritSystem
+# Merit System
 
 ## Overview
 
