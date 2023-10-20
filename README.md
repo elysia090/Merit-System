@@ -4,6 +4,8 @@
 
 MeritSystem is an open-source project that aims to provide a comprehensive solution to the challenges faced by modern network infrastructure. It utilizes a merit-based consensus algorithm and focuses on building a highly available, decentralized infrastructure based on user authentication and device performance. This project offers a novel approach to address infrastructure issues and enhance network reliability.
 
+For detailed information, please visit our [project's Wiki](https://github.com/elysia090/Merit-System/wiki).
+
 ## Key Features
 
 - **Merit-Based Consensus Algorithm:** MeritSystem implements a unique consensus algorithm called "Proof of Merit" (SegAS-DPDoC) that rewards users based on their contributions to the network.
@@ -29,6 +31,8 @@ We welcome contributions from the community to help improve and expand the Merit
 - Report Issues: If you encounter any bugs or issues, please open an issue on GitHub.
 - Contribute Code: Feel free to submit pull requests to enhance the project's functionality.
 - Join the Discussion: Participate in discussions, share ideas, and collaborate with the community.
+
+For in-depth project documentation, please visit our [Wiki](https://github.com/elysia090/Merit-System/wiki).
 
 We appreciate your support and look forward to building a more reliable and decentralized network infrastructure together.
 
